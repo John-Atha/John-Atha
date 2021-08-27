@@ -9,8 +9,9 @@ let atha = {
     job: 'Undergraduate student of Electrical and Computer Engineering department of National Technical University of Athens',
     wanna_be: 'full-stack web developer' /* I guess... */,
     favourites: {
+         fields: ['web development'],
          langs: [C++, Python, Javascript, Typescript, Java, HTML, CSS, SQL],
-         tools : [Django, ReactJS, NodeJS, NestJS, MySQL, PostgreSQL, DSA,],
+         tools : [Django, ReactJS, NodeJS, NestJS, MySQL, PostgreSQL],
          projects: [
             {
                 name: 'PostOn',
@@ -24,18 +25,6 @@ let atha = {
             },
         ], 
     },
-    next_goals: [
-        {
-            name: 'AI/ML',
-            description: 'A dive into AI, ML',
-            by: '2021-12-31',
-        },
-        {
-            name: 'No relational DBs',
-            description: 'Some work with no-relational databases',
-            by: '2021-12-31',
-        },
-    ],
 };
 atha.save();
 ```
