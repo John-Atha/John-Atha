@@ -12,18 +12,6 @@ let atha = {
          fields: ['web development'],
          langs: [C++, Python, Javascript, Typescript, Java, HTML, CSS, SQL],
          tools : [Django, ReactJS, NodeJS, NestJS, MySQL, PostgreSQL],
-         projects: [
-            {
-                name: 'PostOn',
-                description: 'Social media web app',
-                url: 'https://poston.herokuapp.com',    
-            },
-            {
-                name: 'AskMeAnything',
-                description: 'Q&A web app',
-                url: 'https://askmeanything52.herokuapp.com',
-            },
-        ], 
     },
 };
 atha.save();
