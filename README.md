@@ -6,7 +6,6 @@ let atha = {
     full_name: 'John Athanasiou',
     email: 'giannisj3@gmail.com',
     github_username: 'John-Atha',
-    job: 'Undergraduate student of Electrical and Computer Engineering department of National Technical University of Athens',
     wanna_be: 'full-stack web developer' /* I guess... */,
     favourites: {
          fields: ['web development'],
