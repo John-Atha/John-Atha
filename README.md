@@ -8,7 +8,7 @@ let atha = {
     github_username: 'John-Atha',
     wanna_be: 'full-stack web developer' /* I guess... */,
     favourites: {
-         fields: ['web development'],
+         fields: ['web development', 'DSA', 'AI'],
          langs: [C++, Python, Javascript, Typescript, Java, HTML, CSS, SQL],
          tools : [Django, ReactJS, NodeJS, NestJS, MySQL, PostgreSQL],
     },
