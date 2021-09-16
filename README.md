@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 
-```javascript
-/* variable is not a const -- still evolving -- */
-let atha = {
+```python
+import random
+
+atha = {
     full_name: 'John Athanasiou',
+    age: 22,
+    country: 'Greece',
+    city: 'Athens',
     email: 'giannisj3@gmail.com',
     github_username: 'John-Atha',
-    wanna_be: 'full-stack web developer' /* I guess... */,
-    favourites: {
-         fields: ['web development', 'DSA', 'AI'],
-         langs: [C++, Python, Javascript, Typescript, Java, HTML, CSS, SQL],
-         tools : [Django, ReactJS, NodeJS, NestJS, MySQL, PostgreSQL],
-    },
-};
-atha.save();
+    wanna_be: random.randchoice(['full-stack web developer', 'AI-ML engineer']), # don't know yet...
+    favourite_fields: ['web development', 'DSA', 'AI'],
+}
+atha.save()
 ```
 <hr/>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
