@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<a href='https://john-atha.github.io/' target='_blank' rel='noopener noreferer'>Click here for my Portfolio website</a>
-<hr />
+<a href="https://john-atha.github.io/" target="_blank" rel="noopener noreferer">Click here for my Portfolio website</a>
+<hr></hr>
+
 ```python
 import random
 
