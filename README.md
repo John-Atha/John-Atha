@@ -6,14 +6,14 @@
 import random
 
 atha = {
-    full_name: 'John Athanasiou',
-    age: 22,
-    country: 'Greece',
-    city: 'Athens',
-    email: 'giannisj3@gmail.com',
-    github_username: 'John-Atha',
-    wanna_be: random.choice(['full-stack web developer', 'AI-ML engineer']), # don't know yet...
-    favourite_fields: ['web development', 'DSA', 'AI'],
+    'full_name': 'John Athanasiou',
+    'age': 22,
+    'country': 'Greece',
+    'city': 'Athens',
+    'email': 'giannisj3@gmail.com',
+    'github_username': 'John-Atha',
+    'wanna_be': random.choice(['full-stack web developer', 'AI-ML engineer']), # don't know yet...
+    'favourite_fields': ['web development', 'DSA', 'AI'],
 }
 atha.save()
 ```
