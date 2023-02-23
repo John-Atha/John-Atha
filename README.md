@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <a href="https://john-atha.github.io/" target="_blank" rel="noopener noreferer">Click here for my Portfolio website</a>
+<a href="https://www.linkedin.com/in/giannis-athanasiou-0593b8238/" target="_blank" rel="noopener noreferer">Linkedin profile</a>
+
 <hr></hr>
 
 ```python
