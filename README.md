@@ -10,13 +10,13 @@ import random
 
 atha = {
     'full_name': 'John Athanasiou',
-    'age': 22,
+    'age': 23,
     'country': 'Greece',
     'city': 'Athens',
     'email': 'giannisj3@gmail.com',
     'github_username': 'John-Atha',
-    'wanna_be': random.choice(['full-stack web developer', 'AI-ML engineer']), # don't know yet...
-    'favourite_fields': ['web development', 'DSA', 'AI'],
+    'studies': ['MEng at Electrical and Computer Engineering'], 
+    'wanna_be': random.choice(['full-stack web developer', 'web3 developer', 'AI-ML engineer']), # don't know yet...
 }
 atha.save()
 ```
