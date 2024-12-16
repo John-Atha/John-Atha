@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi 👋, I'm Giannis (John)</h1>
 <a href="https://john-atha.github.io/" target="_blank" rel="noopener noreferer">Click here for my Portfolio website</a>
 <br />
 <a href="https://www.linkedin.com/in/giannis-athanasiou-0593b8238/" target="_blank" rel="noopener noreferer">Linkedin profile</a>
@@ -9,14 +9,14 @@
 import random
 
 atha = {
-    'full_name': 'John Athanasiou',
-    'age': 23,
+    'full_name': 'Giannis Athanasiou',
+    'age': 25,
     'country': 'Greece',
     'city': 'Athens',
     'email': 'giannisj3@gmail.com',
     'github_username': 'John-Atha',
     'studies': ['MEng at Electrical and Computer Engineering'], 
-    'wanna_be': random.choice(['full-stack web developer', 'web3 developer', 'AI-ML engineer']), # don't know yet...
+    'expertise': ['Full Stack Software Engineer (Web2.0 & Web3.0)']
 }
 atha.save()
 ```
