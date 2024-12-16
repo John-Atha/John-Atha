@@ -6,8 +6,6 @@
 <hr></hr>
 
 ```python
-import random
-
 atha = {
     'full_name': 'Giannis Athanasiou',
     'age': 25,
